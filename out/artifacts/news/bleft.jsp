@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="css/style.css">
 <!--script language='javascript'>alert('您已经与服务器断开');window.location.href='index.html';</script-->
+
 <table width="199" border="0" align="center" cellpadding="0" cellspacing="0">
       <tr>
         <td height="80" align="center" ><table width="199" height="80" border="0" cellpadding="0" cellspacing="0">
